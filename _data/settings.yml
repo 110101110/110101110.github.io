@@ -8,7 +8,7 @@ disqus:
 
 menu:
 - {name: 'Pour Pierre',  url: 'pour-pierre'}
-- {name: 'Stomping on the World', url: 'stomping-on-the-world'}
+- {name: 'Three Without a Way', url: 'three-without-a-way'}
 - {name: 'Fish in the Tank',       url: 'fish-in-the-tank'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
