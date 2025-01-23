@@ -4,7 +4,7 @@ title: "Stomping on the World"
 author: "Badseed"
 categories: documentation
 tags: [documentation, sample]
-image: monster_sunset.jpg
+image: ticket.jpg
 ---
 **Stomping on the World** (wip) 
 
