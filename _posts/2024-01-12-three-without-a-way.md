@@ -6,9 +6,7 @@ categories: documentation
 tags: [documentation, sample]
 image: ticket.jpg
 ---
-**Three Without a Way** 
-</n> 
-三人不成行 (2024) Beijing, Paris
+**Three Without a Way** <br>三人不成行 (2024) Beijing, Paris
 
 <div align="justify">
 
