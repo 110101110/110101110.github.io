@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Stomping on the World"
+title: "Three Without a Way"
 author: "Badseed"
 categories: documentation
 tags: [documentation, sample]
 image: ticket.jpg
 ---
-**Stomping on the World** (2024) Beijing, Paris
+**Three Without a Way 三人不成行** (2024) Beijing, Paris
 
 <div align="justify">
 
@@ -18,4 +18,4 @@ Over the course of a summer day in Beijing, three friends come together to discu
 </div>
 Full Film Available Upon Request
 
-
+<br /> 
