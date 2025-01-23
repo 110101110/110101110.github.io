@@ -16,8 +16,8 @@ The short documentary unfolds as a reflective tapestry, weaving together the tan
 
 Full Film Available Upon Request
 
-</div>
-
+<br>
+<br>
 <p align="center" width="100%">
   <img width="60%" src="/assets/img/thumbnail.jpeg">
 </p>
