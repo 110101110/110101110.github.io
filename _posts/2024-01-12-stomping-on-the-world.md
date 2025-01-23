@@ -17,5 +17,5 @@ Over the course of a summer day in Beijing, three friends come together to discu
 
 </div>
 Full Film Available Upon Request
-</div>
-</div>
+
+
