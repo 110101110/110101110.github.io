@@ -6,7 +6,7 @@ categories: documentation
 tags: [documentation, sample]
 image: ticket.jpg
 ---
-**Stomping on the World** (wip) 
+**Stomping on the World** (2024) Beijing，Paris
 
 <div align="justify">
 
