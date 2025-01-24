@@ -16,7 +16,8 @@ In this interactive pixel-art game, the player embodies a fish, free to navigate
  <br> Am I human, or merely a fish in a tank?
 
 
-<br /> 
+<br>
+<br>
 
 <p align="center" width="100%">
   <img width="100%" src="/assets/img/tank.png">
