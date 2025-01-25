@@ -4,7 +4,7 @@ title: "Fish in the Tank"
 author: "Badseed"
 categories: documentation
 tags: [documentation, sample]
-image: 
+image: fish1.png
 ---
 **Fish in the Tank** (2025)
 
@@ -19,6 +19,8 @@ In this interactive pixel-art game, the player embodies a fish, free to navigate
 <br>
 
 <p align="center" width="100%">
-  <img width="100%" src="/assets/img/tank.png">
+  <img width="100%" src="/assets/img/fish05.png">
+<p align="center" width="100%">
+  <img width="150%" src="/assets/img/tank.png">
 
 
