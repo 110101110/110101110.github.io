@@ -20,7 +20,7 @@ In this interactive pixel-art game, the player embodies a fish, free to navigate
 
 <p align="center" width="100%">
   <img width="100%" src="/assets/img/fish05.png">
-<p align="center" width="60%">
-  <img width="100%" src="/assets/img/tree.gif">
+<p align="center" width="100%">
+  <img width="60%" src="/assets/img/tree.gif">
 
 
