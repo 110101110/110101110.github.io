@@ -19,7 +19,7 @@ Full Film Available Upon Request
 <br>
 <br>
 <p align="center" width="100%">
-  <img width="60%" src="/assets/img/thumbnail.jpeg">
+  <img width="100%" src="/assets/img/thumbnail.jpeg">
 </p>
 
 
