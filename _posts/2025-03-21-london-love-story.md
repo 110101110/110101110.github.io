@@ -12,7 +12,7 @@ image: ticket.jpg
 
 
 <br />
-<p> <br> In the streets of London, an upturned coffee cup or a fallen sandwich is more than just litter. To me, it becomes a metaphor for the capricious nature of love—or the act of finding it. These photos I’ve taken on my iPhone of accidentally dropped food capture small, comical moments of loss amidst the city’s chaos, yet they also hint at unexpected gains. <p/>
+<br> In the streets of London, an upturned coffee cup or a fallen sandwich is more than just litter. To me, it becomes a metaphor for the capricious nature of love—or the act of finding it. These photos I’ve taken on my iPhone of accidentally dropped food capture small, comical moments of loss amidst the city’s chaos, yet they also hint at unexpected gains. <p/>
 
 <p> <br>Take a spilled ice cream cone, for example. Visually, it’s a minor tragedy turned absurd. But in my mind, it becomes a scene of possibility—a chance encounter sparked by that very mishap, with a personal or emotional connection unfolding behind it. Living in London, unpredictability feels like the norm—missed buses, sudden rainstorms, detours down unfamiliar streets, spontaneous conversations with strangers in pubs. Every disruption holds the potential for something new. Our meaning-seeking minds are wired to find significance in these moments, and so, a random brush with a stranger might feel like fate—just as spotting a whole dropped pizza on the pavement does. <p/>
 
@@ -22,4 +22,4 @@ image: ticket.jpg
  <br />
  <br />
 </div>
-Full Film Available Upon Request
+
