@@ -10,6 +10,7 @@ menu:
 - {name: 'Pour Pierre',  url: 'pour-pierre'}
 - {name: 'Three Without a Way', url: 'three-without-a-way'}
 - {name: 'Fish in the Tank',       url: 'fish-in-the-tank'}
+- {name: 'London Love Story',       url: 'london-love-story'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
