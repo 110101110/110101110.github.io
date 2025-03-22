@@ -4,7 +4,7 @@ title: "Three Without a Way"
 author: "Badseed"
 categories: documentation
 tags: [documentation, sample]
-image: ticket.jpg
+image: final ver.png
 ---
 **Three Without a Way** <br>三人不成行 (2024) Beijing, Paris
 
