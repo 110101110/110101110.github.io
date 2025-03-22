@@ -16,7 +16,7 @@ image: candy.gif
 <br>Take a spilled ice cream cone, for example. Visually, it’s a minor tragedy turned absurd. But in my mind, it becomes a scene of possibility—a chance encounter sparked by that very mishap, with a personal or emotional connection unfolding behind it. Living in London, <b>unpredictability</b> feels like the norm—missed buses, sudden rainstorms, detours down unfamiliar streets, spontaneous conversations with strangers in pubs. Every disruption holds the potential for something new. Our meaning-seeking minds are wired to find significance in these moments, and so, a random brush with a stranger might feel like <b>fate</b> — just as spotting a whole dropped pizza on the pavement does.<be>
 
 <p align="center" width="100%">
-  <img width="60%" src="/assets/img/candy.gif">
+  <img width="80%" src="/assets/img/lovestory.png">
 </p>
 
 <br>When you drop your much-anticipated lunch, the initial feeling is loss—of sustenance, pleasure, or something you were looking forward to. Metaphorically, it mirrors heartbreak or missed chances in love that we all experienced. Just as food slips from your hand without warning, love too can vanish—or appear—without notice, leaving you with a messy aftermath on the ground.<br>
