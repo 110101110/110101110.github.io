@@ -4,7 +4,7 @@ title: "London Love Story"
 author: "Badseed"
 categories: documentation
 tags: [documentation, sample]
-image: 
+image: candy.gif
 ---
 **London Love Story** <br> (2025) London
 
