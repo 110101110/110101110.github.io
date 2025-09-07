@@ -4,7 +4,7 @@ title: "After School"
 author: "Badseed"
 categories: documentation
 tags: [documentation, sample]
-image: 
+image: as01.heic
 ---
 **After School** <br> (2025) Paris <br>
 
