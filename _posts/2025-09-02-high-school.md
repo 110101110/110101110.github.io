@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "After School"
+title: "High School"
 author: "Badseed"
 categories: documentation
 tags: [documentation, sample]
