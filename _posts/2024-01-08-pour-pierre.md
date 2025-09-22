@@ -10,7 +10,7 @@ image: pour_pierre.jpg
 
  <div align="justify">
 
-This short documentary follows a day in the life of Pierre, a master puppeteer in Paris. Blending tradition with innovation, his performances breathe life into marionettes, captivating audiences. Through interviews, the film explores his artistic journey, from apprenticeship to mastery. 
+This short documentary follows a day in the life of Pierre, a master puppeteer in Paris. Blending tradition with innovation, his performances breathe life into marionettes, captivating audiences. Through interviews, the film explores his artistic journey, from apprenticeship to mastery.
  <br />
  <br />
 </div>
