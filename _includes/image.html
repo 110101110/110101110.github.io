@@ -1,0 +1,6 @@
+{%- assign image = site.data.images[include.file] -%}
+{%- assign image_sizes = include.sizes | default: '(max-width: 600px) 95vw, (max-width: 1100px) 60vw, 600px' -%}
+<picture>
+  {% if image.variants %}<source type="image/webp" srcset="{% include image-srcset.html image=image format='webp' %}" sizes="{{ image_sizes }}">{% endif %}
+  <img src="{{ image.fallback | relative_url | uri_escape }}"{% if image.variants %} srcset="{% include image-srcset.html image=image format='fallback' %}" sizes="{{ image_sizes }}"{% endif %} width="{{ image.width }}" height="{{ image.height }}" alt="{{ include.alt | escape }}" loading="{{ include.loading | default: 'lazy' }}"{% if include.priority %} fetchpriority="{{ include.priority }}"{% endif %} decoding="async" style="width: {{ include.display_width | default: '100%' }}; height: auto;">
+</picture>

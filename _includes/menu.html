@@ -1,17 +1,10 @@
-<menu class="menu">
-  <div class="menu-icon" id="menu-icon">
-    <img src="assets/img/menu_icon_1.png" alt="Icon 1" class="icon icon1">
-    <img src="assets/img/menu_icon_2.png" alt="Icon 2" class="icon icon2">
-  </div>
-
-    <div class="menu-list">
-      {% for item in site.data.settings.menu %}
-        <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
-      {% endfor %}
-      {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-      {% endfor %}
-    </div>
-    <script src="script.js"></script>
-  
-</menu>
+<button class="menu-toggle" id="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu">
+  <img src="{{ '/assets/img/menu_icon_1.png' | relative_url }}" alt="" class="icon-open" width="527" height="474" decoding="async">
+  <img src="{{ '/assets/img/menu_icon_2.png' | relative_url }}" alt="" class="icon-close" width="527" height="474" decoding="async">
+</button>
+<nav class="menu-list" id="site-menu" aria-label="Main navigation" hidden>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.url | relative_url }}" class="menu-link"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.name }}</a>
+  {% endfor %}
+  {% include email-link.html %}
+</nav>

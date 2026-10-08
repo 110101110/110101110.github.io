@@ -1,18 +1,23 @@
-# Site Build Settings
+title: BadSeed
+author: Xixi & Tongtong
+url: https://thebadseed.fr
+email: zqt1998@gmail.com
+permalink: /:title
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-# jekyll-paginate configuration
-paginate:            5
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "BadSeed"
-author:              "Xixi & Tongtong"
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - scripts

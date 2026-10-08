@@ -1,14 +1,21 @@
 <!doctype html>
-<html>
+<html lang="en">
   {% include head.html %}
   <body>
     <div class="container">
-      {% include header.html %}
+      <header class="site-header">
+        <a href="{{ '/' | relative_url }}" aria-label="BadSeed home">
+          <img src="{{ '/assets/img/logo.jpeg' | relative_url }}" class="site-image" width="160" height="144" alt="BadSeed" decoding="async">
+        </a>
+      </header>
       {% include menu.html %}
-      <div class="content-wrapper">
+      <main class="content-wrapper">
         {{ content }}
-      </div>
-      {% include footer.html %}
+      </main>
+      <footer class="footer">
+        {% include email-link.html %}
+        <div class="footer-description"><a href="{{ '/' | relative_url }}">{{ site.title }} by {{ site.author }}</a></div>
+      </footer>
     </div>
   </body>
 </html>
